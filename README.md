@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Python and Javascript**
 
-- 👨‍💻 All of my projects are available at [https://nishashashi1324.github.io](https://nishashashi1324.github.io)
+- 👨‍💻 All of my projects are available at [https://nisha1324.github.io](https://nisha1324.github.io)
 
 - 📫 How to reach me **<nisha.shashi.514@gmail.com>**
 
