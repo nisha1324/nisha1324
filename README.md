@@ -23,7 +23,7 @@ I work **at the intersection of business and information systems**. I use data a
 | **Applied AI** | LLM APIs, prompt design, text classification & summarisation |
 | **APIs & automation** | REST APIs, ETL pipelines, GitHub Actions |
 | **Cloud basics** | Cloud storage, serverless functions |
-| **Reporting** | Matplotlib / Plotly, Streamlit dashboards, Power BI-style storytelling |
+| **BI & reporting** | **Power BI** (data modelling, DAX, dashboards), Excel, Matplotlib / Plotly |
 
 ## 📂 Projects
 
@@ -32,7 +32,7 @@ I work **at the intersection of business and information systems**. I use data a
 | [Sentimental-Analysis](https://github.com/nisha1324/Sentimental-Analysis) | Classifies the sentiment of text reviews to show how customers feel |
 
 **🚧 Building now:** a series of business-focused data projects, each ending in clear insights:
-data cleaning & EDA · SQL business analytics · an automated API data pipeline · an LLM-powered review analyser · a Streamlit KPI dashboard.
+Power BI business dashboards · data cleaning & EDA · SQL business analytics · an automated API data pipeline.
 
 ## 🤝 Let's connect
 I'm open to roles and collaborations in **business analysis, data analysis and digital transformation**. Reach out on [LinkedIn](https://linkedin.com/in/nishashashi) or by [email](mailto:nisha.shashi.514@gmail.com).
