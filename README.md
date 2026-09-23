@@ -1,25 +1,38 @@
-<h1 align="center">Hi 👋, I'm Nisha</h1>
-<h3 align="center">Passionate about Technology and Innovation | Aspiring MBA Candidate | Strategic Thinker | Collaborative Communicator</h3>
+<h1 align="center">Hi, I'm Nisha 👋</h1>
+<h3 align="center">Master of Business IT @ La Trobe · AI & ML Graduate · Business Analysis & Digital Transformation</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nisha1324&label=Profile%20views&color=0e75b6&style=flat" alt="nisha1324" /> </p>
-
-<p align="left"><img src="https://github-profile-repo.vercel.app/?username=nisha1324" alt="nisha1324" /></p>
-
-- 🔭 I’m currently working on [Document Processing and Retrieval](#)
-
-- 🌱 I’m currently learning **Python and Javascript**
-
-- 👨‍💻 All of my projects are available at [https://nisha1324.github.io](https://nisha1324.github.io)
-
-- 📫 How to reach me **<nisha.shashi.514@gmail.com>**
-
-- ⚡ Fun fact **It's the sweet simple things of life which are the real ones after all**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/nishashashi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nishashashi" height="30" width="40" /></a>
-<a href="https://instagram.com/__nishhha__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__nishhha__" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/nishashashi"><img src="https://img.shields.io/badge/LinkedIn-nishashashi-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:nisha.shashi.514@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://komarev.com/ghpvc/?username=nisha1324&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+I work **at the intersection of business and information systems**. I use data and technology to answer practical business questions: what's happening, why, and what to do next.
+
+- 🎓 **Master of Business IT**, La Trobe University, Australia (2025–2027): business analysis, data and systems thinking, digital transformation
+- 🎓 **BE Computer Science (AI & ML)**, Ramaiah Institute of Technology, Bangalore (2021–2025), CGPA 8.5
+- 💼 **Marketing Coordinator**, SKBC Realty (2025): digital campaigns, lead generation, client relations
+- 📝 Author of several research publications; I also do project coordination, mentoring and volunteering
+
+## 🔍 What I focus on
+
+| Area | Tools & skills |
+|---|---|
+| **Data processing & analysis** | Python, pandas, NumPy, data cleaning, EDA, Jupyter |
+| **SQL & analytics** | SQL, SQLite / DuckDB, KPIs, cohorts, funnels |
+| **Applied AI** | LLM APIs, prompt design, text classification & summarisation |
+| **APIs & automation** | REST APIs, ETL pipelines, GitHub Actions |
+| **Cloud basics** | Cloud storage, serverless functions |
+| **Reporting** | Matplotlib / Plotly, Streamlit dashboards, Power BI-style storytelling |
+
+## 📂 Projects
+
+| Project | What it does |
+|---|---|
+| [Sentimental-Analysis](https://github.com/nisha1324/Sentimental-Analysis) | Classifies the sentiment of text reviews to show how customers feel |
+
+**🚧 Building now:** a series of business-focused data projects, each ending in clear insights:
+data cleaning & EDA · SQL business analytics · an automated API data pipeline · an LLM-powered review analyser · a Streamlit KPI dashboard.
+
+## 🤝 Let's connect
+I'm open to roles and collaborations in **business analysis, data analysis and digital transformation**. Reach out on [LinkedIn](https://linkedin.com/in/nishashashi) or by [email](mailto:nisha.shashi.514@gmail.com).
