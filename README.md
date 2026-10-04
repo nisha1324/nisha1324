@@ -29,13 +29,14 @@ I work **at the intersection of business and information systems**. I use data a
 
 | Project | What it does |
 |---|---|
+| [E-commerce Funnel & Delivery Analysis](https://github.com/nisha1324/ecommerce-funnel-duckdb) | DuckDB + SQL case study on ~99k marketplace orders: fulfilment funnel, lost revenue, late delivery vs reviews, retention cohorts and seller vs carrier delays. It finds 72% of late orders left the seller on time, pointing to destination-based delivery promises |
 | [FX Rates Pipeline](https://github.com/nisha1324/fx-rates-pipeline) | A self-updating ETL (public API → validated SQLite, run daily by GitHub Actions) plus an SQL report on currency risk for an Australian importer. It shows that re-forecasting the budget rate quarterly cuts the average monthly cost miss by 43% |
 | [Retail Data Cleaning & EDA](https://github.com/nisha1324/retail-data-cleaning-eda) | Cleans 540k messy retail transactions with a logged, rule-by-rule pipeline, then finds seasonality, customer concentration and lapsed-customer revenue, ending in 7 ranked recommendations |
 | [SQL Business Analytics](https://github.com/nisha1324/sql-business-analytics) | 8 business questions answered in SQL: revenue KPIs, RFM customer segments, cohort retention and team performance, each with recommendations |
 | [Sentimental-Analysis](https://github.com/nisha1324/Sentimental-Analysis) | Classifies the sentiment of text reviews to show how customers feel |
 
 **🚧 Building now:** a series of business-focused data projects, each ending in clear insights:
-interactive dashboards · more SQL case studies · an LLM-assisted data tool.
+interactive dashboards · an LLM-assisted data tool · cloud basics.
 
 ## 🤝 Let's connect
 I'm open to roles and collaborations in **business analysis, data analysis and digital transformation**. Reach out on [LinkedIn](https://linkedin.com/in/nishashashi) or by [email](mailto:nisha.shashi.514@gmail.com).
