@@ -29,6 +29,7 @@ I work **at the intersection of business and information systems**. I use data a
 
 | Project | What it does |
 |---|---|
+| [LLM Review Categoriser](https://github.com/nisha1324/llm-review-categoriser) | Sorts ~1,000 product reviews into business themes (Claude backend plus an offline keyword baseline), checks accuracy against a hand-labelled sample, and splits complaints into fixable sub-issues. It finds 1 in 11 negative reviews describes a product that doesn't work, a problem a theme view alone hides |
 | [Retail KPI Dashboard](https://github.com/nisha1324/retail-kpi-dashboard) | Interactive Streamlit dashboard on 1M retail transactions: KPI tiles with year-on-year deltas, country/product drivers and a customer revenue bridge. It shows a flat +2.3% year hiding heavy churn, with £1.1M of lapsed customers to win back |
 | [E-commerce Funnel & Delivery Analysis](https://github.com/nisha1324/ecommerce-funnel-duckdb) | DuckDB + SQL case study on ~99k marketplace orders: fulfilment funnel, lost revenue, late delivery vs reviews, retention cohorts and seller vs carrier delays. It finds 72% of late orders left the seller on time, pointing to destination-based delivery promises |
 | [FX Rates Pipeline](https://github.com/nisha1324/fx-rates-pipeline) | A self-updating ETL (public API → validated SQLite, run daily by GitHub Actions) plus an SQL report on currency risk for an Australian importer. It shows that re-forecasting the budget rate quarterly cuts the average monthly cost miss by 43% |
@@ -37,7 +38,7 @@ I work **at the intersection of business and information systems**. I use data a
 | [Sentimental-Analysis](https://github.com/nisha1324/Sentimental-Analysis) | Classifies the sentiment of text reviews to show how customers feel |
 
 **🚧 Building now:** a series of business-focused data projects, each ending in clear insights:
-an LLM-assisted data tool · cloud basics.
+cloud basics · data structures for everyday data tasks.
 
 ## 🤝 Let's connect
 I'm open to roles and collaborations in **business analysis, data analysis and digital transformation**. Reach out on [LinkedIn](https://linkedin.com/in/nishashashi) or by [email](mailto:nisha.shashi.514@gmail.com).
