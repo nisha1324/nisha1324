@@ -18,7 +18,7 @@ I work **at the intersection of business and information systems**. I use data a
 
 | Area | Tools & skills |
 |---|---|
-| **Data processing & analysis** | Python, pandas, NumPy, data cleaning, EDA, Jupyter |
+| **Data processing & analysis** | Python, pandas, NumPy, data cleaning, EDA, data structures & algorithms, Jupyter |
 | **SQL & analytics** | SQL, SQLite / DuckDB, KPIs, cohorts, funnels |
 | **Applied AI** | LLM APIs, prompt design, text classification & summarisation |
 | **APIs & automation** | REST APIs, ETL pipelines, GitHub Actions |
@@ -29,6 +29,7 @@ I work **at the intersection of business and information systems**. I use data a
 
 | Project | What it does |
 |---|---|
+| [Data Structures in Practice](https://github.com/nisha1324/data-structures-in-practice) | Hash maps, heaps, a sweep line and union-find applied to 342k NYC 311 service requests, each benchmarked against naive code and a library call. It finds 1 in 6 tickets repeats an issue that's already open, and that matching nearby reports by location catches nearly 3× as many of the water department's own duplicates than exact addresses do |
 | [Serverless Property Data Lake](https://github.com/nisha1324/serverless-property-lake) | AWS S3 + Lambda pattern for HM Land Registry's monthly sold-price file: validated, address-free Parquet, SQL in place, a least-privilege SAM template and a cost estimate (~$0.05/month). Run offline on an S3 emulator. It shows 96% of new-build sales are registered 7+ months late, so the latest months understate the market |
 | [LLM Review Categoriser](https://github.com/nisha1324/llm-review-categoriser) | Sorts ~1,000 product reviews into business themes (Claude backend plus an offline keyword baseline), checks accuracy against a hand-labelled sample, and splits complaints into fixable sub-issues. It finds 1 in 11 negative reviews describes a product that doesn't work, a problem a theme view alone hides |
 | [Retail KPI Dashboard](https://github.com/nisha1324/retail-kpi-dashboard) | Interactive Streamlit dashboard on 1M retail transactions: KPI tiles with year-on-year deltas, country/product drivers and a customer revenue bridge. It shows a flat +2.3% year hiding heavy churn, with £1.1M of lapsed customers to win back |
@@ -37,9 +38,6 @@ I work **at the intersection of business and information systems**. I use data a
 | [Retail Data Cleaning & EDA](https://github.com/nisha1324/retail-data-cleaning-eda) | Cleans 540k messy retail transactions with a logged, rule-by-rule pipeline, then finds seasonality, customer concentration and lapsed-customer revenue, ending in 7 ranked recommendations |
 | [SQL Business Analytics](https://github.com/nisha1324/sql-business-analytics) | 8 business questions answered in SQL: revenue KPIs, RFM customer segments, cohort retention and team performance, each with recommendations |
 | [Sentimental-Analysis](https://github.com/nisha1324/Sentimental-Analysis) | Classifies the sentiment of text reviews to show how customers feel |
-
-**🚧 Building now:** a series of business-focused data projects, each ending in clear insights:
-data structures for everyday data tasks.
 
 ## 🤝 Let's connect
 I'm open to roles and collaborations in **business analysis, data analysis and digital transformation**. Reach out on [LinkedIn](https://linkedin.com/in/nishashashi) or by [email](mailto:nisha.shashi.514@gmail.com).
