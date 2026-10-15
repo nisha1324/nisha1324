@@ -2,6 +2,7 @@
 <h3 align="center">Master of Business IT @ La Trobe · AI & ML Graduate · Business Analysis & Digital Transformation</h3>
 
 <p align="center">
+  <a href="https://nisha1324.github.io"><img src="https://img.shields.io/badge/Portfolio-nisha1324.github.io-1F5FAE?logo=githubpages&logoColor=white" alt="Portfolio"/></a>
   <a href="https://linkedin.com/in/nishashashi"><img src="https://img.shields.io/badge/LinkedIn-nishashashi-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:nisha.shashi.514@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?logo=gmail&logoColor=white" alt="Email"/></a>
   <img src="https://komarev.com/ghpvc/?username=nisha1324&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
@@ -26,6 +27,8 @@ I work **at the intersection of business and information systems**. I use data a
 | **BI & reporting** | **Power BI** (data modelling, DAX, dashboards), Excel, Matplotlib / Plotly |
 
 ## 📂 Projects
+
+A one-page tour of these projects, each with its headline finding and key chart, is on my **[portfolio site](https://nisha1324.github.io)** ([source](https://github.com/nisha1324/nisha1324.github.io): built from one data file and deployed with GitHub Actions).
 
 | Project | What it does |
 |---|---|
