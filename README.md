@@ -22,7 +22,7 @@ I work **at the intersection of business and information systems**. I use data a
 | **Data processing & analysis** | Python, pandas, NumPy, data cleaning, EDA, data structures & algorithms, Jupyter |
 | **SQL & analytics** | SQL, SQLite / DuckDB, KPIs, cohorts, funnels |
 | **Applied AI** | LLM APIs, prompt design, text classification & summarisation |
-| **APIs & automation** | REST APIs, ETL pipelines, GitHub Actions |
+| **APIs & automation** | REST APIs, ETL pipelines, data-quality testing, GitHub Actions |
 | **Cloud basics** | Cloud storage, serverless functions |
 | **BI & reporting** | **Power BI** (data modelling, DAX, dashboards), Excel, Matplotlib / Plotly |
 
@@ -32,6 +32,7 @@ A one-page tour of these projects, each with its headline finding and key chart,
 
 | Project | What it does |
 |---|---|
+| [Data-Quality Pipeline on DuckDB](https://github.com/nisha1324/data-quality-pipeline-duckdb) | dbt-style data tests written from scratch (YAML checks compiled to SQL), run on Melbourne's live pedestrian-sensor feed, plus a trust scorecard for 7 business reports and a daily GitHub Actions gate that goes red only on new errors. It finds 3 of the 7 reports shouldn't be used as usually built, and that year-on-year growth is +6.2% like-for-like, not the +3.8% the published totals show |
 | [Marketing Lead Funnel Analysis](https://github.com/nisha1324/marketing-lead-funnel) | DuckDB + SQL analysis of 8,000 marketplace seller leads joined to ~99k orders: channel and landing-page conversion, a shift-share split of a monthly drop, and whether signed sellers start selling. It finds only 43% of signed sellers made a sale within 90 days, and that paid search beats organic search once selling is counted (55% vs 39% start selling) |
 | [Data Structures in Practice](https://github.com/nisha1324/data-structures-in-practice) | Hash maps, heaps, a sweep line and union-find applied to 342k NYC 311 service requests, each benchmarked against naive code and a library call. It finds 1 in 6 tickets repeats an issue that's already open, and that matching nearby reports by location catches nearly 3× as many of the water department's own duplicates than exact addresses do |
 | [Serverless Property Data Lake](https://github.com/nisha1324/serverless-property-lake) | AWS S3 + Lambda pattern for HM Land Registry's monthly sold-price file: validated, address-free Parquet, SQL in place, a least-privilege SAM template and a cost estimate (~$0.05/month). Run offline on an S3 emulator. It shows 96% of new-build sales are registered 7+ months late, so the latest months understate the market |
