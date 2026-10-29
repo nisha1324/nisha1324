@@ -20,7 +20,7 @@ I work **at the intersection of business and information systems**. I use data a
 | Area | Tools & skills |
 |---|---|
 | **Data processing & analysis** | Python, pandas, NumPy, data cleaning, EDA, data structures & algorithms, Jupyter |
-| **SQL & analytics** | SQL, SQLite / DuckDB, KPIs, cohorts, funnels |
+| **SQL & analytics** | SQL, SQLite / DuckDB, dbt (star schemas, tested models), KPIs, cohorts, funnels |
 | **Applied AI** | LLM APIs, prompt design, text-to-SQL with guard rails, LLM evaluation, text classification & summarisation |
 | **APIs & automation** | REST APIs, ETL pipelines, data-quality testing, GitHub Actions |
 | **Cloud basics** | Cloud storage, serverless functions |
@@ -32,6 +32,7 @@ A one-page tour of these projects, each with its headline finding and key chart,
 
 | Project | What it does |
 |---|---|
+| [Airline On-Time Warehouse](https://github.com/nisha1324/airline-ontime-dbt-warehouse) | A tested star-schema warehouse (dbt-core on DuckDB) for Australian domestic airline punctuality since 2004, from government open data, plus a Power BI model with 31 DAX measures and check queries, rebuilt and tested by GitHub Actions on every push. The raw file stacks four grains, so a naive sum overstates flights 3.51×. It finds punctuality still below pre-COVID (77.9% on time vs 79.4% in FY2018-19), and that on busy routes the airline matters more than the route: on Brisbane–Melbourne, Qantas ran 88.4% on time and Jetstar 59.3%. Ends in 6 ranked recommendations for a corporate travel team and its data team |
 | [Victorian Rental Market Analysis](https://github.com/nisha1324/vic-rental-market-analysis) | Where rents are rising fastest across Victoria, and who can still afford to rent, from 25 years of Homes Victoria rental-bond data joined to ABS inflation, building approvals and Census figures (DuckDB SQL, an audit that reconciles every parsed table with the published report). It finds the biggest rises were in regional cities, not Melbourne: rents there rose 46.9% since 2019 and the share of new leases a lower-income household can afford fell from 46.8% to 36.4%. Ends in 5 ranked recommendations for councils, planners, agencies, employers and investors |
 | [LLM SQL Report Helper](https://github.com/nisha1324/llm-sql-report-helper) | Plain-English business questions → guarded SQL → a short report whose numbers are checked against the result. Personal data and writes are blocked inside SQLite, every metric has one written definition, and any backend (Claude, or an offline semantic layer) is scored on 32 gold-answer questions plus a reworded held-out set. It shows why that matters: the offline path is right 59% of the time on the wording it was built from but 19% on reworded questions |
 | [Data-Quality Pipeline on DuckDB](https://github.com/nisha1324/data-quality-pipeline-duckdb) | dbt-style data tests written from scratch (YAML checks compiled to SQL), run on Melbourne's live pedestrian-sensor feed, plus a trust scorecard for 7 business reports and a daily GitHub Actions gate that goes red only on new errors. It finds 3 of the 7 reports shouldn't be used as usually built, and that year-on-year growth is +6.2% like-for-like, not the +3.8% the published totals show |
